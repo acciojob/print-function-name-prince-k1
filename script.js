@@ -1,6 +1,6 @@
 //your JS code here. If required.
 function functionName(){
-	alert(functionoName.name);
+	alert(functionName.name);
 }
 
 functionName();
